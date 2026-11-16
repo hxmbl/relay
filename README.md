@@ -1,3 +1,5 @@
+> **Archived.** Relay is the predecessor of [Winnow](https://github.com/hxmbl/winnow): an early experiment that Winnow replaced. It is no longer maintained and its dependencies are not updated.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
